@@ -1,0 +1,2 @@
+# google-sans-18pt-droid
+A modified collection of system fonts for replaceable system (decrypted systems), the fonts are generated from the A12-A12.1-A13 Roms and are strictly to used on these systems as I have personally tested it and can guarantee, I am not sure about system lower than A12- , you might brick your phone (soft brick) and can only be fixable if you reinstall the entire ROM or new ROM.
